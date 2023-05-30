@@ -1,4 +1,4 @@
- body{
+body{
         background-color: rgb(108, 74, 74);
     }
         h1{
@@ -6,10 +6,7 @@
             color: rgb(108, 74, 74);
             font-size: 60px;
         }
-        #i3{
-            
-        }
-        .wtsc{
+        .welcome{
             color: rgb(108, 74, 74);
             background-color: rgb(221, 190, 190);
             font-size: 20px;
@@ -19,20 +16,28 @@
             color: rgb(237, 237, 237);
             font-size: 35px;
         }
-        .info{
+        .about-us{
             color: rgb(200, 149, 149);
             font-size: 17px;
         }
-        .m2{
+        #i1{
+        border: dashed;
+            border-color: rgb(221, 190, 190);
+        }
+       .list{
+       color: rgb(237, 237, 237);
+            font-size: 30px;
+       }
+       ul{
+       color: rgb(200, 149, 149);
+            font-size: 20px;
+       }
+       .the{
+       color: rgb(237, 237, 237);
+            font-size: 32px;
+       }
+       .m1{
              text-align:center;
              color: rgb(237, 237, 237);
             font-size: 15px;
-        }
-        h3{
-            color: rgb(237, 237, 237);
-            font-size: 30px;
-        }
-        .must{
-           color: rgb(200, 149, 149);
-            font-size: 17px; 
         }
